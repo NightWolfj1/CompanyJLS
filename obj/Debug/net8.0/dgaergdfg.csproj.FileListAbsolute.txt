@@ -134,3 +134,4 @@ C:\Users\Aprendiz\Desktop\dgaergdfg\obj\Debug\net8.0\refint\dgaergdfg.dll
 C:\Users\Aprendiz\Desktop\dgaergdfg\obj\Debug\net8.0\dgaergdfg.pdb
 C:\Users\Aprendiz\Desktop\dgaergdfg\obj\Debug\net8.0\dgaergdfg.genruntimeconfig.cache
 C:\Users\Aprendiz\Desktop\dgaergdfg\obj\Debug\net8.0\ref\dgaergdfg.dll
+C:\Users\Aprendiz\Desktop\dgaergdfg\obj\Debug\net8.0\dgaergdfg.sourcelink.json
